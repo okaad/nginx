@@ -2,6 +2,7 @@ const mapCfg = {
  paths: {
   "/server1": "https://emby.nas.edu.kg:443",
   "/server2": "https://emby.dnscf.dpdns.org:443"
+    "/server3": "http://ykk.emby.moe:80"
  },
  main: "http://filmtoday.emby.moe:80",
  cors: true
@@ -65,6 +66,7 @@ export default {
   }
  }
 };
+
 
 
 
